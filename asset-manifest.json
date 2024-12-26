@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Team-Task-Manager/static/css/main.961051c8.css",
+    "main.js": "/Team-Task-Manager/static/js/main.c19330e6.js",
+    "index.html": "/Team-Task-Manager/index.html",
+    "main.961051c8.css.map": "/Team-Task-Manager/static/css/main.961051c8.css.map",
+    "main.c19330e6.js.map": "/Team-Task-Manager/static/js/main.c19330e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.961051c8.css",
+    "static/js/main.c19330e6.js"
+  ]
+}
